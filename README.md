@@ -1,2 +1,2 @@
 # GraphLaplacianCLT
-This repo provides code for the Eigenvalue of the graph Laplacian CLT. The test code for the extension operator is available at . The data generation and visualization are available at . The numerical method for computing the correlation and covariance matrix of eigenvalues is available.
+This repo provides code for the Eigenvalue of the graph Laplacian CLT; the paper is available at [https://arxiv.org/abs/2507.18803](https://arxiv.org/abs/2507.18803). The test code for the extension operator is available at ExtensionFunction/. The data generation and visualization are available at DataGeneration/. The numerical method for computing the correlation and covariance matrix of eigenvalues is available at NumericalComputationForVariance/.
